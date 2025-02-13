@@ -79,9 +79,4 @@ plt.title(f'Predicted: {y_sample_pred_class}, True: {np.argmax(y_test[random_idx
 - Predictions for random samples are visualized.
 - The confusion matrix can be generated for further analysis.
 
-## Author
-[Your Name]
-
-## License
-This project is open-source and available for educational purposes.
 
